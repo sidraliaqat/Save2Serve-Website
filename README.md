@@ -39,7 +39,7 @@ A user-friendly web application that helps users **discover recipes** based on a
 
 ### Recipes
 ![Recipes](Screenshots/recipes.png)  
-![Find Recipes](Screenshots/find recipes.png)  
+![Find Recipes](Screenshots/find_recipes.png)  
 
 ### Profile & Settings
 ![Profile](Screenshots/profile.png)  
@@ -49,7 +49,7 @@ A user-friendly web application that helps users **discover recipes** based on a
 ### About & Analytics
 ![About 1](Screenshots/about1.png)  
 ![About 2](Screenshots/about2.png)  
-![Progress Graph](Screenshots/graph for progress.png)  
+![Progress Graph](Screenshots/graph_for_progress.png)  
 
 ---
 
