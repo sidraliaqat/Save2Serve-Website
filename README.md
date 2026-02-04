@@ -18,7 +18,7 @@ A user-friendly web application that helps users **discover recipes** based on a
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Database & Authentication:** Supabase  
-- **Hosting (optional):** GitHub Pages or Netlify  
+- **Hosting (optional):** local host
 
 ---
 
